@@ -1,7 +1,7 @@
 {
-  "name": "LibreChat",
-  "version": "v0.7.7",
-  "description": "",
+  "name": "RUAI",
+  "version": "v1.0.0",
+  "description": "Русский AI чат-ассистент",
   "workspaces": [
     "api",
     "client",

@@ -64,10 +64,10 @@ i18n
   .use(initReactI18next)
   .init({
     fallbackLng: {
-      'zh-TW': ['zh-Hant', 'en'],
-      'zh-HK': ['zh-Hant', 'en'],
-      zh: ['zh-Hans', 'en'],
-      default: ['en'],
+      'zh-TW': ['zh-Hant', 'ru'],
+      'zh-HK': ['zh-Hant', 'ru'],
+      zh: ['zh-Hans', 'ru'],
+      default: ['ru'],
     },
     fallbackNS: 'translation',
     ns: ['translation'],
